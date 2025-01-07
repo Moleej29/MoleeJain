@@ -1,7 +1,7 @@
 # 🌟 **Hello, I'm Molee Jain** 👋  
 
 🎓 **B.Tech Computer Science Student**  
-🌍 **From**: Sagar, India | 📍 **Currently at**: Samrat Ashok Technological Institute, Vidisha  
+🌍 **From**: Sagar,Madhya Pradesh, India | 📍 **Currently at**: Samrat Ashok Technological Institute, Vidisha  
 
 I’m a passionate **Computer Science student** with an unwavering enthusiasm for **Full Stack Web Development** and cutting-edge technologies. I thrive on solving complex challenges and continuously push myself to improve and innovate. My mission is to **harness the power of technology** to create impactful solutions that make a real difference in the world. 🌐🚀
 
