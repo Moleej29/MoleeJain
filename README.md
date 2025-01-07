@@ -9,7 +9,6 @@ I’m a passionate **Computer Science student** with an unwavering enthusiasm fo
 
 ### 💻 **Languages & Frameworks**  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js (Learning more!)  
 - **Programming**: Python, Java, C  
 
 ### 🔧 **Tools & Platforms**  
@@ -18,15 +17,14 @@ I’m a passionate **Computer Science student** with an unwavering enthusiasm fo
 | **Git**                 | Version Control  |
 | **GitHub**              | Code Repository  |
 | **Visual Studio Code**  | Code Editor      |
-| **Jupyter Notebook**    | Data Analysis    |
 
 ## 📚 **Education**  
 
 🎓 **Bachelor of Technology (B.Tech)**  
 - **Branch:** Computer Science Engineering  
 - **Institute:** Samrat Ashok Technological Institute, Vidisha  
-- **Year:** 2nd Year (Expected 2025)  
-- **Current CGPA:** 8.3  
+- **Year:** 2nd Year 
+- **Current CGPA:** 8.32  
 
 ## 💬 **Let’s Connect!**  
 
